@@ -29,7 +29,7 @@ To use the code, follow these steps:
 
 The code performs the following steps:
 
-1. Fetches historical data for the S&P 500 stock market index using the `yfinance` library.
+1. Fetches historical data for the input stock ticker using the `yfinance` library.
 
 2. Preprocesses the data by removing unnecessary columns, creating target variables, and selecting predictors.
 
