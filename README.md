@@ -1,4 +1,4 @@
-# Stock-Market-Prediction-with-Machine-Learning
+# Stock-Price-Prediction-with-Machine-Learning
 
 This Python algorithm utilizes machine learning, specifically the Random Forest Classifier, to predict the price movement of the user input stock ticker. It involves data preprocessing, model training, and backtesting.
 
